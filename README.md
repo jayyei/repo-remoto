@@ -9,3 +9,6 @@ Tener instalado git bash o similar
 
 ## Autores
 * **Jay** *
+
+ # Herramientas
+ * [React] (www.react.org)

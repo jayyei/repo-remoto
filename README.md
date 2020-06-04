@@ -8,7 +8,7 @@ Para comenzar, inicia un repo local en tu ordenador, luego prepara algun archivo
 Tener instalado git bash o similar
 
 ## Autores
-* **Jay** *
+* **Jay** 
 
  # Herramientas
  * [React] (www.react.org)
